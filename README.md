@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer. I love to code and solve problems.</h3>
 🌱 I’m currently learning more about Java2EE
 
-- 👨‍💻 All of my projects are available at [github.com/NaimulRahman](github.com/NaimulRahman)
+- 👨‍💻 All of my projects are available at [github.com/naimurrahman1](github.com/naimurrahman1)
 
 - 📫 How to reach me **naimur864@gmail.com**
 
