@@ -41,8 +41,8 @@ Term Memory.
 - Ispahani Public School & College, [HSC], [2016]
 - Ispahani Public School & College, [SSC], [2014]
 
-## 💻 Coding
-- [Codeforces], [naimur864]
+<!-- ## 💻 Coding
+- [Codeforces], [naimur864] -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=NaimulRahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
